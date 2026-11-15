@@ -1,11 +1,11 @@
 # Cashloria
 
 * you will able to manage money
-* it will explain about money
+* it will explain about money 
 
 &#x20;
 
+fdgihn
 
 
-\### Manage your money as a wealthys
 
