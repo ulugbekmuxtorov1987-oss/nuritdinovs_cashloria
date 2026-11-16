@@ -4,7 +4,8 @@
 * it will explain more about money
 
 ## Sections
-##### [Visit Cashloria](https://cashloria.lovable.app)
+
+
 
 
 
